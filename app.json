@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "shopisbeta",
-    "slug": "bolt-expo-nativewind",
+    "slug": "shopisbeta",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
