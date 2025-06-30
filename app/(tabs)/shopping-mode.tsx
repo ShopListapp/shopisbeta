@@ -40,7 +40,7 @@ const mockStores: Store[] = [
     priceLevel: 'low',
     features: ['Meilleurs Prix', 'Produits Frais', 'Caisse Rapide'],
     savings: 15,
-    logo: 'https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop'
+    logo: 'https://raw.githubusercontent.com/ShopListApp/shopisbeta2.0/e3717e200e44429a966c1316de0e682dfd2a115f/assets/images/lidl.svg'
   },
   { 
     id: '2', 
@@ -51,7 +51,7 @@ const mockStores: Store[] = [
     priceLevel: 'medium',
     features: ['Large Sélection', 'Bio', 'Parking Gratuit'],
     savings: 8,
-    logo: 'https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop'
+    logo: 'https://raw.githubusercontent.com/ShopListApp/shopisbeta2.0/e3717e200e44429a966c1316de0e682dfd2a115f/assets/images/carrefour.svg'
   },
   { 
     id: '3', 
@@ -62,7 +62,7 @@ const mockStores: Store[] = [
     priceLevel: 'medium',
     features: ['Grand Magasin', 'Vrac', 'Électronique'],
     savings: 12,
-    logo: 'https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop'
+    logo: 'https://raw.githubusercontent.com/ShopListApp/shopisbeta2.0/e3717e200e44429a966c1316de0e682dfd2a115f/assets/images/auchan.svg'
   },
   { 
     id: '4', 
@@ -73,7 +73,7 @@ const mockStores: Store[] = [
     priceLevel: 'high',
     features: ['Qualité Premium', 'Centre Ville', 'Mode & Alimentaire'],
     savings: 5,
-    logo: 'https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop'
+    logo: 'https://raw.githubusercontent.com/ShopListApp/shopisbeta2.0/e3717e200e44429a966c1316de0e682dfd2a115f/assets/images/monoprix.svg'
   },
 ];
 
